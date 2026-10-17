@@ -24,12 +24,12 @@ export default function Hero() {
               <span className="font-bold text-slate-800">4.9 / 5.0</span>
               <span className="text-slate-400">&bull;</span>
               <a 
-                href="https://maps.app.goo.gl/6Z4XY9RzRAHzjAqQ9" 
+                href="https://maps.app.goo.gl/xH19AuL9nmJigimv8" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-amber-800 hover:underline flex items-center gap-1"
               >
-                Google Maps Manyaran
+                Google Maps Sampangan
                 <IconExternalLink className="w-3.5 h-3.5 inline" />
               </a>
             </div>
@@ -41,7 +41,7 @@ export default function Hero() {
 
             {/* Subheading */}
             <p className="text-base sm:text-lg text-slate-600 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-              Takut grogi di jalan raya? Tenang! Di <strong>Kursus Stir Merdeka Semarang</strong>, instruktur kami sabar, berpengalaman, dan tidak galak. Mobil ber-AC nyaman dilengkapi <strong>pedal ganda (safety dual pedal)</strong> untuk keamanan 100%.
+              Takut grogi di jalan raya? Tenang! Di <strong>Kursus Mengemudi RAFA Semarang</strong>, instruktur kami sabar, berpengalaman, dan ramah. Mobil ber-AC nyaman dilengkapi <strong>pedal ganda (safety dual pedal)</strong> untuk keamanan 100%.
             </p>
 
             {/* Key Highlights Bullets */}
@@ -76,7 +76,7 @@ export default function Hero() {
                 <IconArrowRight className="w-5 h-5" />
               </a>
               <a 
-                href="https://wa.me/6282319220698?text=Halo%20Admin%20Kursus%20Stir%20Merdeka%2C%20saya%20ingin%20konsultasi%20jadwal%20dan%20biaya%20kursus%20mobil." 
+                href="https://wa.me/6285103095800?text=Halo%20Admin%20Kursus%20Mengemudi%20RAFA%2C%20saya%20ingin%20konsultasi%20jadwal%20dan%20biaya%20kursus%20mobil." 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="bg-white hover:bg-slate-50 text-emerald-700 border-2 border-emerald-500 font-bold text-base px-6 py-3.5 rounded-xl hover:-translate-y-0.5 transition-all flex items-center justify-center gap-2.5 shadow-sm"
@@ -88,7 +88,7 @@ export default function Hero() {
 
             {/* Location quick hint */}
             <p className="text-xs text-slate-500 pt-1">
-              📍 Lokasi Strategis: <strong>Ruko Grand Manyaran, Jl. Abdulrahman Saleh No. 1</strong> (Dekat Kalipancur & Ringin Telu, Semarang Barat).
+              📍 Lokasi Strategis: <strong>Jl. Menoreh Raya No. 38, Sampangan</strong> (Kec. Gajahmungkur, dekat UNNES, UNIKA Soegijapranata & Manyaran).
             </p>
 
           </div>
@@ -101,7 +101,7 @@ export default function Hero() {
             <div className="relative mx-auto max-w-md lg:max-w-none rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-slate-900 group">
               <img 
                 src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=900&auto=format&fit=crop" 
-                alt="Instruktur Kursus Stir Merdeka membimbing siswa belajar nyetir" 
+                alt="Instruktur Kursus Mengemudi RAFA membimbing siswa belajar nyetir" 
                 className="w-full h-[360px] sm:h-[420px] object-cover group-hover:scale-105 transition duration-700 ease-out"
                 loading="eager"
               />

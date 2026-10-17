@@ -10,13 +10,13 @@ export default function Footer() {
           {/* Col 1 */}
           <div className="md:col-span-2 space-y-3">
             <div className="flex items-center gap-2 text-white font-extrabold text-lg">
-              <span className="text-primary-500">🚗</span> KURSUS STIR MERDEKA SEMARANG
+              <span className="text-primary-500">🚗</span> KURSUS MENGEMUDI RAFA SEMARANG
             </div>
             <p className="text-xs text-slate-400 max-w-sm leading-relaxed">
-              Lembaga kursus mengemudi mobil terpercaya di Semarang Barat. Melayani latihan manual dan matic, instruktur ramah, armada ber-AC dengan dual control pedal, serta pendampingan SIM A.
+              Lembaga kursus mengemudi mobil terpercaya di Sampangan, Semarang. Melayani latihan manual dan matic, instruktur ramah, armada ber-AC dengan dual control pedal, serta pendampingan SIM A.
             </p>
             <p className="text-xs text-slate-400">
-              📍 Ruko Grand Manyaran, Jl. Abdulrahman Saleh No. 1, Manyaran, Semarang Barat (Dekat Ringin Telu).
+              📍 Jl. Menoreh Raya No. 38, Sampangan, Kec. Gajahmungkur, Kota Semarang (Dekat UNNES & UNIKA).
             </p>
           </div>
 
@@ -50,9 +50,9 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
-          <p>&copy; 2026 Kursus Stir Merdeka Semarang. Hak Cipta Dilindungi.</p>
+          <p>&copy; 2026 Kursus Mengemudi RAFA Semarang. Hak Cipta Dilindungi.</p>
           <p>
-            Direktori Resmi Google Maps: <a href="https://maps.app.goo.gl/6Z4XY9RzRAHzjAqQ9" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white underline">maps.app.goo.gl/6Z4XY9RzRAHzjAqQ9</a>
+            Direktori Resmi Google Maps: <a href="https://maps.app.goo.gl/xH19AuL9nmJigimv8" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white underline">maps.app.goo.gl/xH19AuL9nmJigimv8</a>
           </p>
         </div>
 

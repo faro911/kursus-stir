@@ -7,7 +7,7 @@ const faqs = [
   },
   {
     q: 'Apakah 1 mobil diisi banyak siswa bergantian?',
-    a: 'Tidak! Di Kursus Stir Merdeka sistemnya adalah Privat (1 Mobil = 1 Siswa + 1 Instruktur). Waktu latihan Anda murni fokus untuk Anda tanpa harus menunggu giliran orang lain.'
+    a: 'Tidak! Di Kursus Mengemudi RAFA sistemnya adalah Privat (1 Mobil = 1 Siswa + 1 Instruktur). Waktu latihan Anda murni fokus untuk Anda tanpa harus menunggu giliran orang lain.'
   },
   {
     q: 'Apakah jadwal latihannya bisa fleksibel?',
@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     q: 'Apakah diajarkan teknik tanjakan dan parkir yang sulit?',
-    a: 'Pasti! Mengingat topografi Semarang yang berbukit (Manyaran, Gombel, Ngaliyan), teknik stop & go di tanjakan curam tanpa melorot menjadi materi wajib kami. Selain itu, kami ajarkan rumus mudah parkir paralel, parkir seri mall, dan cara putar balik di jalan sempit.'
+    a: 'Pasti! Mengingat topografi Semarang yang berbukit (Sampangan, Menoreh, Gombel, Manyaran), teknik stop & go di tanjakan curam tanpa melorot menjadi materi wajib kami. Selain itu, kami ajarkan rumus mudah parkir paralel, parkir seri mall, dan cara putar balik di jalan sempit.'
   }
 ];
 

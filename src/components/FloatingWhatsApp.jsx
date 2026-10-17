@@ -5,7 +5,7 @@ export default function FloatingWhatsApp() {
   return (
     <aside aria-label="Kontak WhatsApp Langsung" className="fixed bottom-6 right-6 z-40 hidden md:block">
       <a 
-        href="https://wa.me/6282319220698?text=Halo%20Admin%20Kursus%20Stir%20Merdeka%2C%20saya%20ingin%20tanya%20info%20pendaftaran%20kursus%20mobil." 
+        href="https://wa.me/6285103095800?text=Halo%20Admin%20Kursus%20Mengemudi%20RAFA%2C%20saya%20ingin%20tanya%20info%20pendaftaran%20kursus%20mobil." 
         target="_blank" 
         rel="noopener noreferrer" 
         className="group relative flex items-center bg-emerald-600 hover:bg-emerald-500 text-white p-3.5 rounded-full shadow-2xl hover:scale-110 transition duration-300"

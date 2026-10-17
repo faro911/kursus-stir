@@ -107,7 +107,7 @@ export default function PaketBiaya({ onSelectPackage }) {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-emerald-500 shrink-0 mt-0.5"><IconCheck /></span>
-                  <span>Latihan tanjakan curam Manyaran / Sampangan</span>
+                  <span>Latihan tanjakan curam Sampangan & Menoreh</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-emerald-500 shrink-0 mt-0.5"><IconCheck /></span>
@@ -171,7 +171,7 @@ export default function PaketBiaya({ onSelectPackage }) {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-amber-400 shrink-0 mt-0.5"><IconCheck /></span>
-                  <span>Sertifikat Kelulusan Kursus Merdeka</span>
+                  <span>Sertifikat Kelulusan Kursus Mengemudi RAFA</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-amber-400 shrink-0 mt-0.5"><IconCheck /></span>

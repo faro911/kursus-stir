@@ -19,12 +19,12 @@ export default function Navbar() {
             <div>
               <div className="flex items-center gap-1.5">
                 <span className="font-extrabold text-lg sm:text-2xl text-slate-900 tracking-tight">
-                  KURSUS STIR <span className="text-primary-700">MERDEKA</span>
+                  KURSUS STIR <span className="text-primary-700">RAFA</span>
                 </span>
               </div>
               <p className="text-[11px] sm:text-xs font-medium text-slate-500 flex items-center gap-1">
                 <span className="w-2 h-2 rounded-full bg-emerald-500 inline-block"></span>
-                Manyaran &bull; Semarang Barat
+                Sampangan &bull; Gajahmungkur, Semarang
               </p>
             </div>
           </a>
@@ -42,11 +42,11 @@ export default function Navbar() {
           {/* Header CTA Buttons */}
           <div className="hidden sm:flex items-center gap-3">
             <a 
-              href="tel:082319220698" 
+              href="tel:085103095800" 
               className="text-slate-600 hover:text-primary-700 font-semibold text-xs sm:text-sm flex items-center gap-1.5 py-2 px-3 rounded-lg hover:bg-slate-100 transition"
             >
               <IconPhone className="w-4 h-4 text-primary-600" />
-              0823-1922-0698
+              0851-0309-5800
             </a>
             <a 
               href="#daftar" 
@@ -97,7 +97,7 @@ export default function Navbar() {
               Isi Formulir Pendaftaran WA
             </a>
             <a 
-              href="https://wa.me/6282319220698?text=Halo%20Kursus%20Stir%20Merdeka%2C%20saya%20mau%20tanya%20info%20kursus%20mengemudi" 
+              href="https://wa.me/6285103095800?text=Halo%20Kursus%20Mengemudi%20RAFA%2C%20saya%20mau%20tanya%20info%20kursus%20stir%20mobil" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="w-full py-3 bg-emerald-600 text-white font-bold text-center rounded-xl flex items-center justify-center gap-2"

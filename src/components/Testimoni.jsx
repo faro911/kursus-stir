@@ -4,25 +4,25 @@ import { IconMapPin } from './Icons';
 const reviews = [
   {
     stars: 5,
-    text: '"Awalnya saya takut banget dan gemeteran kalau suruh pegang setir mobil. Untung ketemu instruktur Kursus Stir Merdeka di Manyaran ini, Mas nya bener-bener sabar dan telaten ngajarin dari dasar. Diajarin trik tanjakan Manyaran sampai sekarang udah berani nyetir sendiri ke kantor!"',
+    text: '"Awalnya saya takut banget dan gemeteran kalau suruh pegang setir mobil. Untung ketemu instruktur Kursus Mengemudi RAFA di Sampangan ini, Mas nya bener-bener sabar dan telaten ngajarin dari dasar. Diajarin trik tanjakan Menoreh sampai sekarang udah berani nyetir sendiri ke kampus!"',
     name: 'Dina Novita',
-    role: 'Ibu Rumah Tangga • Manyaran',
+    role: 'Mahasiswi UNNES • Sekaran',
     initials: 'DN',
     color: 'bg-rose-100 text-rose-700'
   },
   {
     stars: 5,
-    text: '"Tempat kursus stir mobil paling recomended di Semarang Barat! Mobilnya bersih dingin, ada rem ganda jadi merasa aman banget waktu latihan di jalan raya rame Simpang Lima dan Manyaran. Ambil paket sekalian SIM A, prosesnya sangat lancar tanpa ribet."',
+    text: '"Tempat kursus stir mobil paling recomended di Semarang Selatan / Barat! Mobilnya bersih dingin, ada rem ganda jadi merasa aman banget waktu latihan di jalan raya ramai Sampangan dan Manyaran. Ambil paket sekalian SIM A, prosesnya sangat lancar tanpa ribet."',
     name: 'Rian Pratama',
-    role: 'Karyawan Swasta • Ngaliyan',
+    role: 'Karyawan Swasta • Gajahmungkur',
     initials: 'RP',
     color: 'bg-blue-100 text-blue-700'
   },
   {
     stars: 5,
-    text: '"Jadwal latihannya enak banget bisa disesuaikan sama jadwal kuliah saya. Trik parkir paralel yang diajarin gampang banget dipraktekkan, sekarang parkir di mall atau minimarket udah nggak was-was lagi. Terima kasih Kursus Stir Merdeka!"',
+    text: '"Jadwal latihannya enak banget bisa disesuaikan sama jadwal kuliah saya. Trik parkir paralel yang diajarin instruktur RAFA gampang banget dipraktekkan, sekarang parkir di mall atau kampus udah nggak was-was lagi. Terima kasih Kursus Stir RAFA!"',
     name: 'Anisa Kusuma',
-    role: 'Mahasiswi Undip • Kalipancur',
+    role: 'Mahasiswi UNIKA • Bendan Dhuwur',
     initials: 'AK',
     color: 'bg-emerald-100 text-emerald-700'
   }
@@ -38,7 +38,7 @@ export default function Testimoni() {
             <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
           </div>
           <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
-            Apa Kata Siswa Kursus Stir Merdeka?
+            Apa Kata Siswa Kursus Mengemudi RAFA?
           </h2>
           <p className="mt-3 text-sm sm:text-base text-slate-600">
             Ulasan jujur dari alumni yang sebelumnya trauma atau belum pernah pegang setir sama sekali
@@ -74,7 +74,7 @@ export default function Testimoni() {
 
         <div className="mt-10 text-center">
           <a 
-            href="https://maps.app.goo.gl/6Z4XY9RzRAHzjAqQ9" 
+            href="https://maps.app.goo.gl/xH19AuL9nmJigimv8" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="inline-flex items-center gap-2 text-sm font-semibold text-primary-700 hover:text-primary-800 bg-white px-5 py-2.5 rounded-full border border-slate-200 shadow-sm hover:shadow transition"

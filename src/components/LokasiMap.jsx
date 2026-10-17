@@ -14,10 +14,10 @@ export default function LokasiMap() {
               Lokasi Strategis & Mudah Dijangkau
             </span>
             <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
-              Kunjungi Kantor Kami di Manyaran, Semarang
+              Kunjungi Kantor Kami di Sampangan, Semarang
             </h2>
             <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
-              Berada di jalur strategis penghubung Manyaran, Kalipancur, Ringin Telu, hingga Ngaliyan. Akses jalan lebar dan sangat mudah ditemukan.
+              Berada di jalan utama Menoreh Raya Sampangan, sangat dekat dengan kampus UNNES, UNIKA Soegijapranata Bendan Dhuwur, AKPOL, dan Semarang Barat. Akses jalan lebar dan parkir mudah.
             </p>
 
             <div className="space-y-4 pt-2">
@@ -30,9 +30,9 @@ export default function LokasiMap() {
                 <div>
                   <h4 className="font-bold text-slate-900 text-sm">Alamat Kantor:</h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-0.5">
-                    Ruko Grand Manyaran, Jl. Abdulrahman Saleh No. 1, Manyaran, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50147
+                    Jl. Menoreh Raya No. 38, Sampangan, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50232
                   </p>
-                  <p className="text-xs text-slate-400 mt-1">(Dekat kawasan Ringin Telu, Kalipancur, Sampangan & Ngaliyan)</p>
+                  <p className="text-xs text-slate-400 mt-1">(Dekat UNNES, UNIKA Bendan Dhuwur, AKPOL & Manyaran)</p>
                 </div>
               </div>
 
@@ -44,8 +44,8 @@ export default function LokasiMap() {
                 <div>
                   <h4 className="font-bold text-slate-900 text-sm">Jam Operasional Kursus:</h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-0.5">
-                    <strong>Senin - Sabtu:</strong> 08.00 – 18.00 WIB<br />
-                    <strong>Minggu:</strong> 07.30 – 17.00 WIB (Buka Setiap Hari)
+                    <strong>Senin - Sabtu:</strong> 07.00 – 17.00 WIB<br />
+                    <strong>Minggu:</strong> Konfirmasi jadwal via WhatsApp terlebih dahulu
                   </p>
                 </div>
               </div>
@@ -57,8 +57,8 @@ export default function LokasiMap() {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 text-sm">WhatsApp / Telepon:</h4>
-                  <a href="tel:082319220698" className="text-xs sm:text-sm text-primary-700 font-bold hover:underline block mt-0.5">
-                    0823-1922-0698
+                  <a href="tel:085103095800" className="text-xs sm:text-sm text-primary-700 font-bold hover:underline block mt-0.5">
+                    0851-0309-5800
                   </a>
                 </div>
               </div>
@@ -68,7 +68,7 @@ export default function LokasiMap() {
             {/* Direct Action */}
             <div className="pt-2 flex flex-wrap gap-3">
               <a 
-                href="https://maps.app.goo.gl/6Z4XY9RzRAHzjAqQ9" 
+                href="https://maps.app.goo.gl/xH19AuL9nmJigimv8" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="bg-primary-700 hover:bg-primary-800 text-white font-bold text-sm px-5 py-3 rounded-xl shadow-md hover:shadow-lg transition flex items-center gap-2"
@@ -84,8 +84,8 @@ export default function LokasiMap() {
           <div className="lg:col-span-7">
             <div className="rounded-3xl overflow-hidden shadow-xl border-4 border-slate-100 bg-slate-100 relative h-[380px] sm:h-[440px]">
               <iframe 
-                title="Peta Lokasi Kursus Stir Merdeka Semarang"
-                src="https://maps.google.com/maps?q=-7.002762,110.3812171+(Kursus+Stir+Merdeka+Semarang)&z=16&output=embed"
+                title="Peta Lokasi Kursus Mengemudi RAFA Semarang"
+                src="https://maps.google.com/maps?q=-7.0149283,110.3898932+(Kursus+Mengemudi+RAFA+Semarang)&z=17&output=embed"
                 className="w-full h-full border-0" 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
@@ -93,9 +93,9 @@ export default function LokasiMap() {
               />
               
               <div className="absolute bottom-3 left-3 right-3 bg-white/95 backdrop-blur-md p-3 rounded-xl border border-slate-200 shadow-md flex items-center justify-between text-xs">
-                <span className="font-bold text-slate-800 truncate">Kursus Stir Merdeka - Manyaran, Semarang</span>
+                <span className="font-bold text-slate-800 truncate">Kursus Mengemudi RAFA - Sampangan, Semarang</span>
                 <a 
-                  href="https://maps.app.goo.gl/6Z4XY9RzRAHzjAqQ9" 
+                  href="https://maps.app.goo.gl/xH19AuL9nmJigimv8" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-primary-700 font-extrabold hover:underline whitespace-nowrap ml-2"
