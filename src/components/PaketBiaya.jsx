@@ -103,11 +103,11 @@ export default function PaketBiaya({ onSelectPackage }) {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-emerald-500 shrink-0 mt-0.5"><IconCheck /></span>
-                  <span>Fokus latihan jalan raya protokol & padat</span>
+                  <span>Fokus latihan jalan raya protokol Simpang Lima & Pemuda</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-emerald-500 shrink-0 mt-0.5"><IconCheck /></span>
-                  <span>Latihan tanjakan curam Sampangan & Menoreh</span>
+                  <span>Latihan tanjakan curam Siranda & Gombel</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-emerald-500 shrink-0 mt-0.5"><IconCheck /></span>
@@ -171,7 +171,7 @@ export default function PaketBiaya({ onSelectPackage }) {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-amber-400 shrink-0 mt-0.5"><IconCheck /></span>
-                  <span>Sertifikat Kelulusan Kursus Mengemudi RAFA</span>
+                  <span>Sertifikat Kelulusan Kursus Stir Mobil Thamrin</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-amber-400 shrink-0 mt-0.5"><IconCheck /></span>
@@ -251,7 +251,7 @@ export default function PaketBiaya({ onSelectPackage }) {
 
         {/* Note on custom hours */}
         <div className="mt-10 p-4 rounded-2xl bg-blue-50 border border-blue-200 text-center max-w-2xl mx-auto text-xs sm:text-sm text-primary-900">
-          💡 <strong>Butuh paket jam lain atau private weekend?</strong> Kami juga melayani paket jam khusus, latihan dengan mobil sendiri, atau private khusus hari Sabtu & Minggu. Hubungi admin untuk penyesuaian!
+          💡 <strong>Jadwal Fleksibel Buka Pagi sampai Malam (06.00 – 21.00 WIB):</strong> Sangat cocok untuk karyawan kantor, mahasiswa, maupun ibu rumah tangga. Bisa latihan sebelum kerja atau sepulang kantor!
         </div>
 
       </div>

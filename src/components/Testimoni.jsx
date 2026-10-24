@@ -4,25 +4,25 @@ import { IconMapPin } from './Icons';
 const reviews = [
   {
     stars: 5,
-    text: '"Awalnya saya takut banget dan gemeteran kalau suruh pegang setir mobil. Untung ketemu instruktur Kursus Mengemudi RAFA di Sampangan ini, Mas nya bener-bener sabar dan telaten ngajarin dari dasar. Diajarin trik tanjakan Menoreh sampai sekarang udah berani nyetir sendiri ke kampus!"',
+    text: '"Awalnya takut banget dan gemeteran kalau suruh pegang setir mobil di jalan ramai Semarang. Untung ketemu instruktur Kursus Stir Thamrin, Mas nya sabar dan santai banget ngajarin dari dasar. Diajarin trik masuk Simpang Lima dan tanjakan Siranda sampai sekarang udah lancar berangkat kerja bawa mobil sendiri!"',
     name: 'Dina Novita',
-    role: 'Mahasiswi UNNES • Sekaran',
+    role: 'Karyawan Swasta • Pemuda, Semarang',
     initials: 'DN',
     color: 'bg-rose-100 text-rose-700'
   },
   {
     stars: 5,
-    text: '"Tempat kursus stir mobil paling recomended di Semarang Selatan / Barat! Mobilnya bersih dingin, ada rem ganda jadi merasa aman banget waktu latihan di jalan raya ramai Sampangan dan Manyaran. Ambil paket sekalian SIM A, prosesnya sangat lancar tanpa ribet."',
+    text: '"Tempat kursus stir mobil paling recomended di pusat kota Semarang! Lokasinya strategis banget di Jl. MH Thamrin, mobilnya bersih ber-AC dingin, ada rem ganda jadi merasa aman banget waktu latihan. Ambil paket sekalian SIM A, prosesnya sangat cepat dan dibimbing sampai lulus."',
     name: 'Rian Pratama',
-    role: 'Karyawan Swasta • Gajahmungkur',
+    role: 'Wiraswasta • Semarang Tengah',
     initials: 'RP',
     color: 'bg-blue-100 text-blue-700'
   },
   {
     stars: 5,
-    text: '"Jadwal latihannya enak banget bisa disesuaikan sama jadwal kuliah saya. Trik parkir paralel yang diajarin instruktur RAFA gampang banget dipraktekkan, sekarang parkir di mall atau kampus udah nggak was-was lagi. Terima kasih Kursus Stir RAFA!"',
+    text: '"Jam latihannya enak banget karena buka dari jam 6 pagi sampai jam 9 malam! Saya bisa latihan pagi sebelum kuliah. Trik parkir paralel yang diajarin instruktur Thamrin gampang banget dipraktekkan, sekarang parkir di mall Paragon atau DP Mall udah nggak takut lagi."',
     name: 'Anisa Kusuma',
-    role: 'Mahasiswi UNIKA • Bendan Dhuwur',
+    role: 'Mahasiswi • Semarang',
     initials: 'AK',
     color: 'bg-emerald-100 text-emerald-700'
   }
@@ -38,10 +38,10 @@ export default function Testimoni() {
             <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
           </div>
           <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
-            Apa Kata Siswa Kursus Mengemudi RAFA?
+            Apa Kata Siswa Kursus Stir Mobil Thamrin?
           </h2>
           <p className="mt-3 text-sm sm:text-base text-slate-600">
-            Ulasan jujur dari alumni yang sebelumnya trauma atau belum pernah pegang setir sama sekali
+            Ulasan jujur dari alumni yang sebelumnya belum pernah pegang setir sama sekali hingga lancar di jalan raya
           </p>
         </div>
 
@@ -74,7 +74,7 @@ export default function Testimoni() {
 
         <div className="mt-10 text-center">
           <a 
-            href="https://maps.app.goo.gl/xH19AuL9nmJigimv8" 
+            href="https://maps.app.goo.gl/1pV1uGBezprRAqpKA" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="inline-flex items-center gap-2 text-sm font-semibold text-primary-700 hover:text-primary-800 bg-white px-5 py-2.5 rounded-full border border-slate-200 shadow-sm hover:shadow transition"

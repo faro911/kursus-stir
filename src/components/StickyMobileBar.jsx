@@ -7,7 +7,7 @@ export default function StickyMobileBar() {
       <div className="flex items-center gap-2">
         {/* Quick Call Button */}
         <a 
-          href="tel:085103095800" 
+          href="tel:085865979050" 
           className="w-12 h-12 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 flex items-center justify-center shrink-0 border border-slate-200"
           aria-label="Telepon Kantor"
         >
@@ -24,7 +24,7 @@ export default function StickyMobileBar() {
 
         {/* Direct WA Button */}
         <a 
-          href="https://wa.me/6285103095800?text=Halo%20Kursus%20Mengemudi%20RAFA%20Semarang%2C%20saya%20mau%20daftar%20kursus%20mobil." 
+          href="https://wa.me/6285865979050?text=Halo%20Kursus%20Stir%20Mobil%20Thamrin%20Semarang%2C%20saya%20mau%20daftar%20kursus%20mobil." 
           target="_blank" 
           rel="noopener noreferrer" 
           className="flex-1 py-3 px-3 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs sm:text-sm rounded-xl text-center shadow-md flex items-center justify-center gap-1.5"

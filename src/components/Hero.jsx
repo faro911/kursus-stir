@@ -21,15 +21,15 @@ export default function Hero() {
               <div className="flex text-amber-500">
                 <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
               </div>
-              <span className="font-bold text-slate-800">4.9 / 5.0</span>
+              <span className="font-bold text-slate-800">4.8 / 5.0</span>
               <span className="text-slate-400">&bull;</span>
               <a 
-                href="https://maps.app.goo.gl/xH19AuL9nmJigimv8" 
+                href="https://maps.app.goo.gl/1pV1uGBezprRAqpKA" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-amber-800 hover:underline flex items-center gap-1"
               >
-                Google Maps Sampangan
+                Google Maps Thamrin Simpang Lima
                 <IconExternalLink className="w-3.5 h-3.5 inline" />
               </a>
             </div>
@@ -41,7 +41,7 @@ export default function Hero() {
 
             {/* Subheading */}
             <p className="text-base sm:text-lg text-slate-600 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-              Takut grogi di jalan raya? Tenang! Di <strong>Kursus Mengemudi RAFA Semarang</strong>, instruktur kami sabar, berpengalaman, dan ramah. Mobil ber-AC nyaman dilengkapi <strong>pedal ganda (safety dual pedal)</strong> untuk keamanan 100%.
+              Takut grogi di jalan raya? Tenang! Di <strong>Kursus Stir Mobil Thamrin Semarang</strong>, instruktur kami sabar, berpengalaman, dan ramah. Mobil ber-AC nyaman dilengkapi <strong>pedal ganda (safety dual pedal)</strong> untuk keamanan 100%. Buka setiap hari dari pagi hingga malam!
             </p>
 
             {/* Key Highlights Bullets */}
@@ -56,7 +56,7 @@ export default function Hero() {
                 <span className="flex-shrink-0 w-6 h-6 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold text-xs">
                   <IconCheck className="w-3.5 h-3.5" />
                 </span>
-                <span className="text-xs sm:text-sm font-semibold text-slate-700">Instruktur Sabar</span>
+                <span className="text-xs sm:text-sm font-semibold text-slate-700">Jam 06.00 - 21.00</span>
               </div>
               <div className="flex items-center gap-2 bg-white/80 p-2.5 rounded-xl border border-slate-200/80 shadow-xs col-span-2 sm:col-span-1">
                 <span className="flex-shrink-0 w-6 h-6 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold text-xs">
@@ -76,7 +76,7 @@ export default function Hero() {
                 <IconArrowRight className="w-5 h-5" />
               </a>
               <a 
-                href="https://wa.me/6285103095800?text=Halo%20Admin%20Kursus%20Mengemudi%20RAFA%2C%20saya%20ingin%20konsultasi%20jadwal%20dan%20biaya%20kursus%20mobil." 
+                href="https://wa.me/6285865979050?text=Halo%20Admin%20Kursus%20Stir%20Mobil%20Thamrin%2C%20saya%20ingin%20konsultasi%20jadwal%20dan%20biaya%20kursus%20mobil." 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="bg-white hover:bg-slate-50 text-emerald-700 border-2 border-emerald-500 font-bold text-base px-6 py-3.5 rounded-xl hover:-translate-y-0.5 transition-all flex items-center justify-center gap-2.5 shadow-sm"
@@ -88,7 +88,7 @@ export default function Hero() {
 
             {/* Location quick hint */}
             <p className="text-xs text-slate-500 pt-1">
-              📍 Lokasi Strategis: <strong>Jl. Menoreh Raya No. 38, Sampangan</strong> (Kec. Gajahmungkur, dekat UNNES, UNIKA Soegijapranata & Manyaran).
+              📍 Lokasi Pusat Kota: <strong>Jl. MH Thamrin No. 118, Miroto</strong> (Kec. Semarang Tengah, dekat Simpang Lima, Paragon Mall, & Pemuda).
             </p>
 
           </div>
@@ -101,7 +101,7 @@ export default function Hero() {
             <div className="relative mx-auto max-w-md lg:max-w-none rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-slate-900 group">
               <img 
                 src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=900&auto=format&fit=crop" 
-                alt="Instruktur Kursus Mengemudi RAFA membimbing siswa belajar nyetir" 
+                alt="Instruktur Kursus Stir Mobil Thamrin membimbing siswa belajar nyetir" 
                 className="w-full h-[360px] sm:h-[420px] object-cover group-hover:scale-105 transition duration-700 ease-out"
                 loading="eager"
               />
@@ -137,8 +137,8 @@ export default function Hero() {
                 ⏰
               </div>
               <div>
-                <p className="text-[11px] font-bold text-slate-400 uppercase tracking-wider">Jadwal Fleksibel</p>
-                <p className="text-xs sm:text-sm font-extrabold text-slate-800">Pagi, Siang, Sore & Weekend</p>
+                <p className="text-[11px] font-bold text-slate-400 uppercase tracking-wider">Jam Buka Fleksibel</p>
+                <p className="text-xs sm:text-sm font-extrabold text-slate-800">Setiap Hari: 06.00 – 21.00 WIB</p>
               </div>
             </div>
 
