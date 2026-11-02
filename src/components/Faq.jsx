@@ -7,11 +7,11 @@ const faqs = [
   },
   {
     q: 'Apakah 1 mobil diisi banyak siswa bergantian?',
-    a: 'Tidak! Di Kursus Stir Mobil Thamrin sistemnya adalah Privat (1 Mobil = 1 Siswa + 1 Instruktur). Waktu latihan Anda murni fokus untuk Anda tanpa harus menunggu giliran orang lain.'
+    a: 'Tidak! Di Kursus Mengemudi Anggrek sistemnya adalah Privat (1 Mobil = 1 Siswa + 1 Instruktur). Waktu latihan Anda murni fokus untuk Anda tanpa harus menunggu giliran orang lain.'
   },
   {
     q: 'Apakah jadwal latihannya bisa fleksibel?',
-    a: 'Bisa sekali! Kami buka setiap hari mulai pukul 06.00 pagi hingga 21.00 malam. Anda bisa pilih jadwal sebelum berangkat kerja, siang, sore, atau malam sepulang kantor serta akhir pekan.'
+    a: 'Bisa sekali! Anda dapat memilih jadwal pagi, siang, atau sore hari (Senin s.d. Sabtu 08.00 – 16.00 WIB). Jadwal juga bisa disesuaikan secara dinamis setiap pertemuannya bersama instruktur sesuai waktu luang Anda.'
   },
   {
     q: 'Bagaimana dengan bantuan pengurusan SIM A?',
@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     q: 'Apakah diajarkan teknik tanjakan dan parkir yang sulit?',
-    a: 'Pasti! Kami ajarkan teknik stop & go di tanjakan curam (Siranda / Gombel) tanpa melorot. Selain itu, kami ajarkan rumus mudah parkir paralel, parkir seri mall, dan cara putar balik di jalan sempit.'
+    a: 'Pasti! Kami ajarkan teknik stop & go di tanjakan curam tanpa melorot. Selain itu, kami ajarkan rumus mudah parkir paralel, parkir seri mall, dan cara putar balik di jalan sempit.'
   }
 ];
 

@@ -1,17 +1,17 @@
-# Landing Page Kursus Stir Mobil Thamrin Semarang (Vite + React)
+# Landing Page Kursus Mengemudi Anggrek Semarang (Vite + React)
 
-Landing page resmi dan profesional untuk lembaga kursus mengemudi **Kursus Stir Mobil Thamrin Semarang**, dibangun menggunakan **Vite + React (Non-TypeScript / Pure JavaScript)** yang dirancang **super ringan (ultra-lightweight)**, cepat dimuat di HP, dan terintegrasi dengan Google Maps serta pendaftaran langsung ke WhatsApp.
+Landing page resmi dan profesional untuk lembaga kursus mengemudi **Kursus Mengemudi Anggrek Semarang**, dibangun menggunakan **Vite + React (Non-TypeScript / Pure JavaScript)** yang dirancang **super ringan (ultra-lightweight)**, cepat dimuat di HP, dan terintegrasi dengan Google Maps serta pendaftaran langsung ke WhatsApp.
 
 ---
 
 ## 📌 Ringkasan Data Bisnis (Sesuai Google Maps)
-* **Nama Usaha:** Kursus Stir Mobil Thamrin Semarang
-* **Tautan Google Maps:** [https://maps.app.goo.gl/1pV1uGBezprRAqpKA](https://maps.app.goo.gl/1pV1uGBezprRAqpKA)
-* **Koordinat Lokasi:** `-6.9843329, 110.4177506`
-* **Alamat:** Jl. MH Thamrin No. 118, Miroto, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134 *(Dekat Simpang Lima, Paragon Mall, & Pemuda)*
-* **Nomor Kontak / WhatsApp:** `0858-6597-9050` / `(024) 3515605`
-* **Rating:** 4.8 / 5.0 ⭐ Ulasan Google Maps
-* **Jam Operasional:** Buka Setiap Hari (Senin – Minggu): 06.00 – 21.00 WIB
+* **Nama Usaha:** Kursus Mengemudi Anggrek Semarang
+* **Tautan Google Maps:** [https://maps.app.goo.gl/aDKY4CnTQwK5Y3ua9](https://maps.app.goo.gl/aDKY4CnTQwK5Y3ua9)
+* **Koordinat Lokasi:** `-6.9908416, 110.4369163`
+* **Alamat:** Jl. Maluku, Karangtempel, Kec. Semarang Timur, Kota Semarang, Jawa Tengah 50232 *(Dekat Dr. Cipto, Barito, & Simpang Lima)*
+* **Nomor Kontak / WhatsApp:** `0812-2571-3323`
+* **Rating:** 4.9 / 5.0 ⭐ Ulasan Google Maps
+* **Jam Operasional:** Senin – Sabtu: 08.00 – 16.00 WIB
 
 ---
 
@@ -25,19 +25,19 @@ Landing page resmi dan profesional untuk lembaga kursus mengemudi **Kursus Stir 
 ## 📱 Fitur Mobile-First & Direct to WhatsApp
 
 1. **Sticky Bottom Bar di Layar Smartphone:**
-   - Tombol telepon kantor langsung (`tel:085865979050`).
+   - Tombol telepon kantor langsung (`tel:081225713323`).
    - Tombol cepat loncat ke formulir pendaftaran.
    - Tombol chat WhatsApp instan.
 2. **Formulir Pendaftaran Otomatis ke WhatsApp:**
    - Calon siswa mengisi: Nama, Nomor HP, Transmisi (Manual / Matic), Paket Kursus, Waktu Latihan, Domisili, dan Catatan.
-   - Saat tombol **"Kirim Pendaftaran via WhatsApp Sekarang"** diklik, pesan otomatis terformat dengan rapi dan langsung membuka WhatsApp CS (`0858-6597-9050`).
+   - Saat tombol **"Kirim Pendaftaran via WhatsApp Sekarang"** diklik, pesan otomatis terformat dengan rapi dan langsung membuka WhatsApp CS (`0812-2571-3323`).
 3. **Pilihan Paket Interaktif (Manual vs Matic):**
    - Toggle switcher Manual / Matic yang memperbarui harga secara reaktif.
    - Tombol "Pilih Paket" otomatis menyinkronkan paket ke formulir dan menggulirkan halaman dengan halus ke input nama.
 4. **Keamanan & Kredibilitas:**
    - Highlight fitur rem ganda instruktur (*Dual Control Safety Pedal*), mobil full AC, review siswa, alur 4 langkah belajar, dan FAQ akordeon interaktif.
 5. **Google Maps Tersemat:**
-   - Embed iframe peta pusat kota Semarang / Simpang Lima yang responsif + tombol direct link ke rute Maps resmi.
+   - Embed iframe peta Semarang Timur / Karangtempel yang responsif + tombol direct link ke rute Maps resmi.
 
 ---
 

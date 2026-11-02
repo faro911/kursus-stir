@@ -103,11 +103,11 @@ export default function PaketBiaya({ onSelectPackage }) {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-emerald-500 shrink-0 mt-0.5"><IconCheck /></span>
-                  <span>Fokus latihan jalan raya protokol Simpang Lima & Pemuda</span>
+                  <span>Fokus latihan jalan raya protokol & lalu lintas padat</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-emerald-500 shrink-0 mt-0.5"><IconCheck /></span>
-                  <span>Latihan tanjakan curam Siranda & Gombel</span>
+                  <span>Latihan tanjakan, turunan, dan putar balik</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-emerald-500 shrink-0 mt-0.5"><IconCheck /></span>
@@ -171,7 +171,7 @@ export default function PaketBiaya({ onSelectPackage }) {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-amber-400 shrink-0 mt-0.5"><IconCheck /></span>
-                  <span>Sertifikat Kelulusan Kursus Stir Mobil Thamrin</span>
+                  <span>Sertifikat Kelulusan Kursus Mengemudi Anggrek</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-amber-400 shrink-0 mt-0.5"><IconCheck /></span>
@@ -251,7 +251,7 @@ export default function PaketBiaya({ onSelectPackage }) {
 
         {/* Note on custom hours */}
         <div className="mt-10 p-4 rounded-2xl bg-blue-50 border border-blue-200 text-center max-w-2xl mx-auto text-xs sm:text-sm text-primary-900">
-          💡 <strong>Jadwal Fleksibel Buka Pagi sampai Malam (06.00 – 21.00 WIB):</strong> Sangat cocok untuk karyawan kantor, mahasiswa, maupun ibu rumah tangga. Bisa latihan sebelum kerja atau sepulang kantor!
+          💡 <strong>Butuh paket khusus atau latihan dengan mobil sendiri?</strong> Kami juga melayani paket jam fleksibel serta bimbingan dengan kendaraan pribadi Anda. Hubungi admin untuk informasi lebih lanjut!
         </div>
 
       </div>

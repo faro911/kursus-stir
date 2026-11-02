@@ -10,13 +10,13 @@ export default function Footer() {
           {/* Col 1 */}
           <div className="md:col-span-2 space-y-3">
             <div className="flex items-center gap-2 text-white font-extrabold text-lg">
-              <span className="text-primary-500">🚗</span> KURSUS STIR MOBIL THAMRIN SEMARANG
+              <span className="text-primary-500">🚗</span> KURSUS MENGEMUDI ANGGREK SEMARANG
             </div>
             <p className="text-xs text-slate-400 max-w-sm leading-relaxed">
-              Lembaga kursus mengemudi mobil terpercaya di pusat kota Semarang. Melayani latihan manual dan matic, instruktur ramah, armada ber-AC dengan dual control safety pedal, serta pendampingan SIM A.
+              Lembaga kursus mengemudi mobil terpercaya di Semarang Timur. Melayani latihan manual dan matic, instruktur ramah, armada ber-AC dengan dual control safety pedal, serta pendampingan SIM A.
             </p>
             <p className="text-xs text-slate-400">
-              📍 Jl. MH Thamrin No. 118, Miroto, Kec. Semarang Tengah, Kota Semarang 50134 (Dekat Simpang Lima).
+              📍 Jl. Maluku, Karangtempel, Kec. Semarang Timur, Kota Semarang 50232 (Dekat Dr. Cipto & Barito).
             </p>
           </div>
 
@@ -50,9 +50,9 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
-          <p>&copy; 2026 Kursus Stir Mobil Thamrin Semarang. Hak Cipta Dilindungi.</p>
+          <p>&copy; 2026 Kursus Mengemudi Anggrek Semarang. Hak Cipta Dilindungi.</p>
           <p>
-            Direktori Resmi Google Maps: <a href="https://maps.app.goo.gl/1pV1uGBezprRAqpKA" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white underline">maps.app.goo.gl/1pV1uGBezprRAqpKA</a>
+            Direktori Resmi Google Maps: <a href="https://maps.app.goo.gl/aDKY4CnTQwK5Y3ua9" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white underline">maps.app.goo.gl/aDKY4CnTQwK5Y3ua9</a>
           </p>
         </div>
 

@@ -17,7 +17,7 @@ const features = [
     icon: '🚦',
     bgColor: 'bg-amber-100 text-amber-700',
     title: 'Praktek Nyata Jalan Raya & Tanjakan',
-    desc: 'Latihan langsung di jalan protokol kota (Simpang Lima, Pemuda, Gajah Mada) dan teknik tanjakan curam (Siranda, Gombel). Kuasai stop & go tanpa melorot!'
+    desc: 'Latihan langsung di jalan raya perkotaan yang ramai serta teknik tanjakan curam. Kuasai stop & go tanjakan tanpa rasa takut mobil melorot!'
   },
   {
     icon: '🚗',
@@ -47,13 +47,13 @@ export default function Keunggulan() {
         {/* Section Header */}
         <div className="text-center max-w-3xl mx-auto mb-14 sm:mb-20">
           <span className="text-xs sm:text-sm font-bold uppercase tracking-wider text-primary-700 bg-primary-100/70 px-4 py-1.5 rounded-full inline-block mb-3">
-            Mengapa Memilih Kursus Stir Mobil Thamrin?
+            Mengapa Memilih Kursus Mengemudi Anggrek?
           </span>
           <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
             Solusi Belajar Nyetir Paling Aman, Menyenangkan & Bebas Tekanan
           </h2>
           <p className="mt-4 text-sm sm:text-base text-slate-600">
-            Banyak orang takut belajar mobil karena takut dimarahi instruktur atau takut nabrak. Di Kursus Stir Mobil Thamrin Semarang, kenyamanan psikologis dan keselamatan Anda adalah prioritas no. 1!
+            Banyak orang takut belajar mobil karena takut dimarahi instruktur atau takut nabrak. Di Kursus Mengemudi Anggrek Semarang, kenyamanan psikologis dan keselamatan Anda adalah prioritas no. 1!
           </p>
         </div>
 
