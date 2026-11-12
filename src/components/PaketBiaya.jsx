@@ -171,7 +171,7 @@ export default function PaketBiaya({ onSelectPackage }) {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-amber-400 shrink-0 mt-0.5"><IconCheck /></span>
-                  <span>Sertifikat Kelulusan Kursus Mengemudi Anggrek</span>
+                  <span>Sertifikat Kelulusan Kursus Stir Mobil Monalia</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-amber-400 shrink-0 mt-0.5"><IconCheck /></span>
@@ -251,7 +251,7 @@ export default function PaketBiaya({ onSelectPackage }) {
 
         {/* Note on custom hours */}
         <div className="mt-10 p-4 rounded-2xl bg-blue-50 border border-blue-200 text-center max-w-2xl mx-auto text-xs sm:text-sm text-primary-900">
-          💡 <strong>Butuh paket khusus atau latihan dengan mobil sendiri?</strong> Kami juga melayani paket jam fleksibel serta bimbingan dengan kendaraan pribadi Anda. Hubungi admin untuk informasi lebih lanjut!
+          💡 <strong>Jadwal Fleksibel Setiap Hari:</strong> Sangat ramah untuk pemula, mahasiswi, maupun ibu rumah tangga. Latihan privat tenang dan aman didampingi instruktur berpengalaman!
         </div>
 
       </div>

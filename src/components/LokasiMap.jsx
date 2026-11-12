@@ -11,13 +11,13 @@ export default function LokasiMap() {
           {/* Info Column */}
           <div className="lg:col-span-5 space-y-6">
             <span className="text-xs sm:text-sm font-bold uppercase tracking-wider text-primary-700 bg-primary-100/70 px-4 py-1.5 rounded-full inline-block">
-              Lokasi Strategis Semarang Timur
+              Lokasi Strategis Semarang Barat
             </span>
             <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
-              Kunjungi Kantor Kami di Jl. Maluku, Karangtempel
+              Kunjungi Kantor Kami di Jl. Anjasmoro, Karangayu
             </h2>
             <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
-              Berada di kawasan Karangtempel, Semarang Timur (Jl. Maluku). Sangat mudah dijangkau dari arah Jl. Dr. Cipto, Barito, MT Haryono, dan Simpang Lima. Akses jalan tenang dan kondusif untuk latihan dasar mengemudi.
+              Berada di Jl. Anjasmoro IV No. 21, Karangayu, Semarang Barat. Sangat dekat dengan Puri Anjasmoro, Madukoro, Pamularsih, dan Bandara Ahmad Yani. Akses jalan tenang dan sangat nyaman untuk latihan pemula.
             </p>
 
             <div className="space-y-4 pt-2">
@@ -30,9 +30,9 @@ export default function LokasiMap() {
                 <div>
                   <h4 className="font-bold text-slate-900 text-sm">Alamat Kantor:</h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-0.5">
-                    Jl. Maluku, Karangtempel, Kec. Semarang Timur, Kota Semarang, Jawa Tengah 50232
+                    Jl. Anjasmoro IV No. 21, RT.05/RW.03, Karangayu, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149
                   </p>
-                  <p className="text-xs text-slate-400 mt-1">(Dekat Dr. Cipto, Barito, & Simpang Lima)</p>
+                  <p className="text-xs text-slate-400 mt-1">(Dekat Puri Anjasmoro, Madukoro, & Pamularsih)</p>
                 </div>
               </div>
 
@@ -44,8 +44,8 @@ export default function LokasiMap() {
                 <div>
                   <h4 className="font-bold text-slate-900 text-sm">Jam Operasional Kursus:</h4>
                   <p className="text-xs sm:text-sm text-slate-600 mt-0.5">
-                    <strong>Senin - Sabtu:</strong> 08.00 – 16.00 WIB<br />
-                    <strong>Minggu / Hari Libur:</strong> Konfirmasi via WhatsApp
+                    <strong>Buka Setiap Hari:</strong> 08.00 – 17.00 WIB<br />
+                    (Jadwal latihan fleksibel bisa disesuaikan waktu luang siswa)
                   </p>
                 </div>
               </div>
@@ -57,8 +57,8 @@ export default function LokasiMap() {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 text-sm">WhatsApp / Telepon:</h4>
-                  <a href="tel:081225713323" className="text-xs sm:text-sm text-primary-700 font-bold hover:underline block mt-0.5">
-                    0812-2571-3323
+                  <a href="tel:08818799816" className="text-xs sm:text-sm text-primary-700 font-bold hover:underline block mt-0.5">
+                    0881-8799-816 / (024) 7605320
                   </a>
                 </div>
               </div>
@@ -68,7 +68,7 @@ export default function LokasiMap() {
             {/* Direct Action */}
             <div className="pt-2 flex flex-wrap gap-3">
               <a 
-                href="https://maps.app.goo.gl/aDKY4CnTQwK5Y3ua9" 
+                href="https://maps.app.goo.gl/R48Va7yMVtBnzzDs8" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="bg-primary-700 hover:bg-primary-800 text-white font-bold text-sm px-5 py-3 rounded-xl shadow-md hover:shadow-lg transition flex items-center gap-2"
@@ -84,8 +84,8 @@ export default function LokasiMap() {
           <div className="lg:col-span-7">
             <div className="rounded-3xl overflow-hidden shadow-xl border-4 border-slate-100 bg-slate-100 relative h-[380px] sm:h-[440px]">
               <iframe 
-                title="Peta Lokasi Kursus Mengemudi Anggrek Semarang"
-                src="https://maps.google.com/maps?q=-6.9908416,110.4369163+(Kursus+Mengemudi+Anggrek+Semarang)&z=17&output=embed"
+                title="Peta Lokasi Kursus Stir Mobil Monalia Semarang"
+                src="https://maps.google.com/maps?q=-6.9802652,110.3907786+(Kursus+Stir+Mobil+Monalia+Semarang)&z=17&output=embed"
                 className="w-full h-full border-0" 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
@@ -93,9 +93,9 @@ export default function LokasiMap() {
               />
               
               <div className="absolute bottom-3 left-3 right-3 bg-white/95 backdrop-blur-md p-3 rounded-xl border border-slate-200 shadow-md flex items-center justify-between text-xs">
-                <span className="font-bold text-slate-800 truncate">Kursus Mengemudi Anggrek - Semarang Timur</span>
+                <span className="font-bold text-slate-800 truncate">Kursus Stir Mobil Monalia - Karangayu, Semarang</span>
                 <a 
-                  href="https://maps.app.goo.gl/aDKY4CnTQwK5Y3ua9" 
+                  href="https://maps.app.goo.gl/R48Va7yMVtBnzzDs8" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-primary-700 font-extrabold hover:underline whitespace-nowrap ml-2"

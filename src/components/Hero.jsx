@@ -24,12 +24,12 @@ export default function Hero() {
               <span className="font-bold text-slate-800">4.9 / 5.0</span>
               <span className="text-slate-400">&bull;</span>
               <a 
-                href="https://maps.app.goo.gl/aDKY4CnTQwK5Y3ua9" 
+                href="https://maps.app.goo.gl/R48Va7yMVtBnzzDs8" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-amber-800 hover:underline flex items-center gap-1"
               >
-                Google Maps Anggrek Semarang
+                Google Maps Monalia Semarang
                 <IconExternalLink className="w-3.5 h-3.5 inline" />
               </a>
             </div>
@@ -41,7 +41,7 @@ export default function Hero() {
 
             {/* Subheading */}
             <p className="text-base sm:text-lg text-slate-600 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-              Takut grogi di jalan raya? Tenang! Di <strong>Kursus Mengemudi Anggrek Semarang</strong>, instruktur kami sabar, berpengalaman, dan ramah. Mobil ber-AC nyaman dilengkapi <strong>pedal ganda (safety dual pedal)</strong> untuk keamanan 100%. Metode privat 1 siswa 1 mobil!
+              Takut grogi di jalan raya? Tenang! Di <strong>Kursus Stir Mobil Monalia Semarang</strong>, instruktur kami sangat sabar, ramah, dan telaten membimbing pemula maupun wanita dari nol sampai benar-benar percaya diri. Mobil ber-AC nyaman dilengkapi <strong>pedal ganda (safety dual pedal)</strong> untuk keamanan 100%!
             </p>
 
             {/* Key Highlights Bullets */}
@@ -56,7 +56,7 @@ export default function Hero() {
                 <span className="flex-shrink-0 w-6 h-6 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold text-xs">
                   <IconCheck className="w-3.5 h-3.5" />
                 </span>
-                <span className="text-xs sm:text-sm font-semibold text-slate-700">Instruktur Sabar</span>
+                <span className="text-xs sm:text-sm font-semibold text-slate-700">Ramah Pemula & Wanita</span>
               </div>
               <div className="flex items-center gap-2 bg-white/80 p-2.5 rounded-xl border border-slate-200/80 shadow-xs col-span-2 sm:col-span-1">
                 <span className="flex-shrink-0 w-6 h-6 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold text-xs">
@@ -76,7 +76,7 @@ export default function Hero() {
                 <IconArrowRight className="w-5 h-5" />
               </a>
               <a 
-                href="https://wa.me/6281225713323?text=Halo%20Admin%20Kursus%20Mengemudi%20Anggrek%2C%20saya%20ingin%20konsultasi%20jadwal%20dan%20biaya%20kursus%20mobil." 
+                href="https://wa.me/628818799816?text=Halo%20Admin%20Kursus%20Stir%20Mobil%20Monalia%2C%20saya%20ingin%20konsultasi%20jadwal%20dan%20biaya%20kursus%20mobil." 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="bg-white hover:bg-slate-50 text-emerald-700 border-2 border-emerald-500 font-bold text-base px-6 py-3.5 rounded-xl hover:-translate-y-0.5 transition-all flex items-center justify-center gap-2.5 shadow-sm"
@@ -88,7 +88,7 @@ export default function Hero() {
 
             {/* Location quick hint */}
             <p className="text-xs text-slate-500 pt-1">
-              📍 Lokasi Strategis: <strong>Jl. Maluku, Karangtempel</strong> (Kec. Semarang Timur, dekat Dr. Cipto, Barito, & MT Haryono).
+              📍 Lokasi Strategis: <strong>Jl. Anjasmoro IV No. 21, Karangayu</strong> (Kec. Semarang Barat, dekat Puri Anjasmoro, Madukoro, & Pamularsih).
             </p>
 
           </div>
@@ -101,7 +101,7 @@ export default function Hero() {
             <div className="relative mx-auto max-w-md lg:max-w-none rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-slate-900 group">
               <img 
                 src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=900&auto=format&fit=crop" 
-                alt="Instruktur Kursus Mengemudi Anggrek membimbing siswa belajar nyetir" 
+                alt="Instruktur Kursus Stir Mobil Monalia membimbing siswa belajar nyetir" 
                 className="w-full h-[360px] sm:h-[420px] object-cover group-hover:scale-105 transition duration-700 ease-out"
                 loading="eager"
               />
@@ -138,7 +138,7 @@ export default function Hero() {
               </div>
               <div>
                 <p className="text-[11px] font-bold text-slate-400 uppercase tracking-wider">Jadwal Fleksibel</p>
-                <p className="text-xs sm:text-sm font-extrabold text-slate-800">Senin - Sabtu: 08.00 – 16.00 WIB</p>
+                <p className="text-xs sm:text-sm font-extrabold text-slate-800">Buka Setiap Hari (Pagi s.d. Sore)</p>
               </div>
             </div>
 

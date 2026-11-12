@@ -4,25 +4,25 @@ import { IconMapPin } from './Icons';
 const reviews = [
   {
     stars: 5,
-    text: '"Awalnya takut dan tegang banget mau belajar mobil di jalan raya Semarang. Untung mendaftar di Kursus Mengemudi Anggrek, instrukturnya sabar dan telaten ngajarin dari nol. Cara jelasin feeling kopling dan haluan mobil mudah dipahami sampai saya lancar nyetir sendiri!"',
+    text: '"Awalnya takut dan gemeteran banget kalau mau nyetir mobil di jalan raya. Untung daftar di Kursus Stir Mobil Monalia, instrukturnya sabar banget, ramah, dan telaten ngajarin dari dasar. Diajarin sampai benar-benar paham dan percaya diri. Sangat recommended buat cewek atau pemula!"',
     name: 'Dina Novita',
-    role: 'Ibu Rumah Tangga • Semarang Timur',
+    role: 'Ibu Rumah Tangga • Puri Anjasmoro',
     initials: 'DN',
     color: 'bg-rose-100 text-rose-700'
   },
   {
     stars: 5,
-    text: '"Tempat kursus stir mobil yang sangat recomended! Mobilnya bersih, full AC dingin, dan dilengkapi pedal rem ganda jadi merasa aman banget waktu latihan. Pengurusan pendampingan SIM A juga sangat dibantu sampai selesai."',
+    text: '"Tempat kursus stir mobil paling recomended di Semarang Barat! Mobilnya bersih, full AC dingin, dan ada pedal rem darurat ganda jadi merasa aman banget waktu latihan. Pengurusan SIM A juga dibantu sampai beres."',
     name: 'Rian Pratama',
-    role: 'Karyawan Swasta • Karangtempel',
+    role: 'Karyawan Swasta • Karangayu',
     initials: 'RP',
     color: 'bg-blue-100 text-blue-700'
   },
   {
     stars: 5,
-    text: '"Instruktur ramah dan komunikatif, tidak pernah memarahi siswa. Trik parkir seri dan paralel yang diajarkan sangat presisi, sekarang parkir di mall atau tempat ramai sudah tidak grogi lagi. Terima kasih Kursus Mengemudi Anggrek!"',
+    text: '"Instruktur ramah dan tidak pernah marah-marah saat kita salah. Trik parkir paralel dan masuk gang sempit yang diajarkan sangat gampang dipraktekkan. Sekarang bawa mobil ke kantor atau mall sudah santai. Terima kasih Monalia!"',
     name: 'Anisa Kusuma',
-    role: 'Mahasiswi • Semarang',
+    role: 'Karyawati • Madukoro, Semarang Barat',
     initials: 'AK',
     color: 'bg-emerald-100 text-emerald-700'
   }
@@ -38,10 +38,10 @@ export default function Testimoni() {
             <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
           </div>
           <h2 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
-            Apa Kata Siswa Kursus Mengemudi Anggrek?
+            Apa Kata Siswa Kursus Stir Mobil Monalia?
           </h2>
           <p className="mt-3 text-sm sm:text-base text-slate-600">
-            Ulasan jujur dari alumni yang sebelumnya belum pernah pegang setir sama sekali hingga lancar di jalan raya
+            Ulasan jujur dari alumni yang sebelumnya trauma atau belum pernah pegang setir sama sekali
           </p>
         </div>
 
@@ -74,7 +74,7 @@ export default function Testimoni() {
 
         <div className="mt-10 text-center">
           <a 
-            href="https://maps.app.goo.gl/aDKY4CnTQwK5Y3ua9" 
+            href="https://maps.app.goo.gl/R48Va7yMVtBnzzDs8" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="inline-flex items-center gap-2 text-sm font-semibold text-primary-700 hover:text-primary-800 bg-white px-5 py-2.5 rounded-full border border-slate-200 shadow-sm hover:shadow transition"

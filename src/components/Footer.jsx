@@ -10,13 +10,13 @@ export default function Footer() {
           {/* Col 1 */}
           <div className="md:col-span-2 space-y-3">
             <div className="flex items-center gap-2 text-white font-extrabold text-lg">
-              <span className="text-primary-500">🚗</span> KURSUS MENGEMUDI ANGGREK SEMARANG
+              <span className="text-primary-500">🚗</span> KURSUS STIR MOBIL MONALIA SEMARANG
             </div>
             <p className="text-xs text-slate-400 max-w-sm leading-relaxed">
-              Lembaga kursus mengemudi mobil terpercaya di Semarang Timur. Melayani latihan manual dan matic, instruktur ramah, armada ber-AC dengan dual control safety pedal, serta pendampingan SIM A.
+              Lembaga kursus mengemudi mobil terpercaya di Semarang Barat. Ramah pemula dan wanita, melayani latihan manual dan matic, instruktur ramah, armada ber-AC dengan dual control safety pedal, serta pendampingan SIM A.
             </p>
             <p className="text-xs text-slate-400">
-              📍 Jl. Maluku, Karangtempel, Kec. Semarang Timur, Kota Semarang 50232 (Dekat Dr. Cipto & Barito).
+              📍 Jl. Anjasmoro IV No. 21, Karangayu, Kec. Semarang Barat, Kota Semarang 50149 (Dekat Puri Anjasmoro).
             </p>
           </div>
 
@@ -39,7 +39,7 @@ export default function Footer() {
             <ul className="space-y-2 text-xs">
               <li>Kursus Mobil Manual</li>
               <li>Kursus Mobil Matic (Automatic)</li>
-              <li>Paket Pemula dari Nol</li>
+              <li>Paket Khusus Pemula & Wanita</li>
               <li>Paket Pelancaran Jalan Raya</li>
               <li>Latihan Tanjakan & Parkir Mall</li>
               <li>Pendampingan Ujian SIM A</li>
@@ -50,9 +50,9 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-400">
-          <p>&copy; 2026 Kursus Mengemudi Anggrek Semarang. Hak Cipta Dilindungi.</p>
+          <p>&copy; 2026 Kursus Stir Mobil Monalia Semarang. Hak Cipta Dilindungi.</p>
           <p>
-            Direktori Resmi Google Maps: <a href="https://maps.app.goo.gl/aDKY4CnTQwK5Y3ua9" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white underline">maps.app.goo.gl/aDKY4CnTQwK5Y3ua9</a>
+            Direktori Resmi Google Maps: <a href="https://maps.app.goo.gl/R48Va7yMVtBnzzDs8" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white underline">maps.app.goo.gl/R48Va7yMVtBnzzDs8</a>
           </p>
         </div>
 

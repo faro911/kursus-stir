@@ -31,8 +31,8 @@ export default function FormPendaftaran({ selectedPackage, selectedTransmisi }) 
       return;
     }
 
-    const waNumber = '6281225713323';
-    const message = `Halo Admin Kursus Mengemudi Anggrek Semarang,
+    const waNumber = '628818799816';
+    const message = `Halo Admin Kursus Stir Mobil Monalia Semarang,
 Saya ingin mendaftar kursus mobil dengan data berikut:
 
 📝 *FORMULIR PENDAFTARAN SISWA BARU*
@@ -69,7 +69,7 @@ Mohon info ketersediaan jadwal terdekat dan konfirmasi pendaftaran. Terima kasih
             Daftar Kursus Sekarang & Amankan Jadwal Latihan Anda!
           </h2>
           <p className="mt-3 text-sm sm:text-base text-slate-300">
-            Silakan isi formulir di bawah ini. Saat klik tombol <strong>"Kirim via WhatsApp"</strong>, pesan akan otomatis terformat dan Anda langsung terhubung dengan CS Kursus Mengemudi Anggrek.
+            Silakan isi formulir di bawah ini. Saat klik tombol <strong>"Kirim via WhatsApp"</strong>, pesan akan otomatis terformat dan Anda langsung terhubung dengan CS Kursus Stir Mobil Monalia.
           </p>
         </div>
 
@@ -161,7 +161,8 @@ Mohon info ketersediaan jadwal terdekat dan konfirmasi pendaftaran. Terima kasih
                 >
                   <option value="Pagi (08.00 - 11.00)">🌅 Pagi (08.00 - 11.00 WIB)</option>
                   <option value="Siang (11.00 - 14.00)">☀️ Siang (11.00 - 14.00 WIB)</option>
-                  <option value="Sore (14.00 - 16.00)">🌇 Sore (14.00 - 16.00 WIB)</option>
+                  <option value="Sore (14.00 - 17.00)">🌇 Sore (14.00 - 17.00 WIB)</option>
+                  <option value="Khusus Weekend (Sabtu / Minggu)">📅 Khusus Weekend (Sabtu/Minggu)</option>
                   <option value="Fleksibel (Mengikuti Rekomendasi)">🔄 Fleksibel / Jam Kosong</option>
                 </select>
               </div>
@@ -175,7 +176,7 @@ Mohon info ketersediaan jadwal terdekat dan konfirmasi pendaftaran. Terima kasih
                   type="text" 
                   value={domisili}
                   onChange={(e) => setDomisili(e.target.value)}
-                  placeholder="Misal: Karangtempel, Semarang Timur, Dr. Cipto, dll." 
+                  placeholder="Misal: Karangayu, Puri Anjasmoro, Semarang Barat, dll." 
                   className="w-full px-4 py-3 rounded-xl border border-slate-300 focus:border-primary-600 focus:ring-2 focus:ring-primary-100 outline-none text-sm transition"
                 />
               </div>
@@ -206,7 +207,7 @@ Mohon info ketersediaan jadwal terdekat dan konfirmasi pendaftaran. Terima kasih
                 <span>Kirim Pendaftaran via WhatsApp Sekarang</span>
               </button>
               <p className="text-center text-xs text-slate-500 mt-2.5">
-                🔒 Data Anda aman & langsung terkirim ke WhatsApp Customer Care Kursus Mengemudi Anggrek.
+                🔒 Data Anda aman & langsung terkirim ke WhatsApp Customer Care Kursus Stir Mobil Monalia.
               </p>
             </div>
 

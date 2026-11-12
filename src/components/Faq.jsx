@@ -3,15 +3,15 @@ import React, { useState } from 'react';
 const faqs = [
   {
     q: 'Saya sama sekali belum pernah pegang setir & penakut, apakah bisa?',
-    a: 'Sangat bisa! Sebagian besar siswa kami adalah pemula dari nol dan awalnya merasa cemas atau takut. Instruktur kami sangat ramah, sabar, dan tidak pernah memarahi siswa. Mobil kami juga dilengkapi pedal rem ganda darurat di sisi instruktur sehingga sangat aman 100%.'
+    a: 'Sangat bisa! Sebagian besar siswa kami di Kursus Stir Mobil Monalia adalah pemula dari nol dan wanita yang awalnya cemas atau takut. Instruktur kami sangat ramah, sabar, dan tidak pernah memarahi siswa. Mobil kami juga dilengkapi pedal rem ganda darurat di sisi instruktur sehingga sangat aman 100%.'
   },
   {
     q: 'Apakah 1 mobil diisi banyak siswa bergantian?',
-    a: 'Tidak! Di Kursus Mengemudi Anggrek sistemnya adalah Privat (1 Mobil = 1 Siswa + 1 Instruktur). Waktu latihan Anda murni fokus untuk Anda tanpa harus menunggu giliran orang lain.'
+    a: 'Tidak! Di Kursus Stir Mobil Monalia sistemnya adalah Privat (1 Mobil = 1 Siswa + 1 Instruktur). Waktu latihan Anda murni fokus untuk Anda tanpa harus menunggu giliran orang lain.'
   },
   {
     q: 'Apakah jadwal latihannya bisa fleksibel?',
-    a: 'Bisa sekali! Anda dapat memilih jadwal pagi, siang, atau sore hari (Senin s.d. Sabtu 08.00 – 16.00 WIB). Jadwal juga bisa disesuaikan secara dinamis setiap pertemuannya bersama instruktur sesuai waktu luang Anda.'
+    a: 'Bisa sekali! Kami buka setiap hari. Anda bisa memilih jadwal pagi, siang, atau sore hari. Jadwal juga bisa disesuaikan secara dinamis setiap pertemuannya bersama instruktur sesuai waktu luang Anda.'
   },
   {
     q: 'Bagaimana dengan bantuan pengurusan SIM A?',
